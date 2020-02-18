@@ -1,0 +1,39 @@
+body {
+    background: #eae1c8;
+}
+
+.heading-name {
+    color: #4e3939;
+    text-align: center;
+}
+
+.my-ava {
+    border:  2px solid white;
+}
+
+header div {
+    margin: 5px;
+    height: 198px;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+}
+
+h2,h3,h4,h5,p,ul {
+    margin: 3px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+aside {
+    clear: both;
+}
+
+footer {
+    background: #e5aeae;
+    text-align: center;
+}
+
+
